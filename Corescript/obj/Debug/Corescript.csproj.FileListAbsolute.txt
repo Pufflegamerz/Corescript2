@@ -1,0 +1,11 @@
+C:\Users\daniel\source\repos\Corescript\Corescript\bin\Debug\Corescript.exe.config
+C:\Users\daniel\source\repos\Corescript\Corescript\bin\Debug\Corescript.exe
+C:\Users\daniel\source\repos\Corescript\Corescript\bin\Debug\Corescript.pdb
+C:\Users\daniel\source\repos\Corescript\Corescript\obj\Debug\Corescript.csprojResolveAssemblyReference.cache
+C:\Users\daniel\source\repos\Corescript\Corescript\obj\Debug\Corescript.Properties.Resources.resources
+C:\Users\daniel\source\repos\Corescript\Corescript\obj\Debug\Corescript.csproj.GenerateResource.cache
+C:\Users\daniel\source\repos\Corescript\Corescript\obj\Debug\Corescript.csproj.CoreCompileInputs.cache
+C:\Users\daniel\source\repos\Corescript\Corescript\obj\Debug\Corescript.exe
+C:\Users\daniel\source\repos\Corescript\Corescript\obj\Debug\Corescript.pdb
+C:\Users\daniel\source\repos\Corescript\Corescript\obj\Debug\Corescript.graphical.resources
+C:\Users\daniel\source\repos\Corescript\Corescript\obj\Debug\Corescript.ide.resources
