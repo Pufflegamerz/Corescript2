@@ -1,0 +1,3 @@
+graphical
+line 0 420 1000 420
+line 100 420 100 480

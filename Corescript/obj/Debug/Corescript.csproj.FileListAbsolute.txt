@@ -7,5 +7,5 @@ C:\Users\daniel\source\repos\Corescript\Corescript\obj\Debug\Corescript.csproj.G
 C:\Users\daniel\source\repos\Corescript\Corescript\obj\Debug\Corescript.csproj.CoreCompileInputs.cache
 C:\Users\daniel\source\repos\Corescript\Corescript\obj\Debug\Corescript.exe
 C:\Users\daniel\source\repos\Corescript\Corescript\obj\Debug\Corescript.pdb
-C:\Users\daniel\source\repos\Corescript\Corescript\obj\Debug\Corescript.graphical.resources
 C:\Users\daniel\source\repos\Corescript\Corescript\obj\Debug\Corescript.ide.resources
+C:\Users\daniel\source\repos\Corescript\Corescript\obj\Debug\Corescript.docs.resources

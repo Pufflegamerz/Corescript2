@@ -49,11 +49,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="graphical.cs">
+    <Compile Include="docs.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="graphical.Designer.cs">
-      <DependentUpon>graphical.cs</DependentUpon>
+    <Compile Include="docs.Designer.cs">
+      <DependentUpon>docs.cs</DependentUpon>
     </Compile>
     <Compile Include="ide.cs">
       <SubType>Form</SubType>
@@ -63,8 +63,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="graphical.resx">
-      <DependentUpon>graphical.cs</DependentUpon>
+    <EmbeddedResource Include="docs.resx">
+      <DependentUpon>docs.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ide.resx">
       <DependentUpon>ide.cs</DependentUpon>
